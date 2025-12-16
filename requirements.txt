@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+spacy
+language-tool-python
+# note: install the spaCy language model with: python -m spacy download en_core_web_sm
+# LanguageTool requires a Java runtime (JRE). See README.md for platform-specific notes.
